@@ -29,6 +29,6 @@ publishing {
 }
 
 wrapper {
-    gradleVersion = "7.3.3"
-    distributionType = Wrapper.DistributionType.ALL
+    gradleVersion = "8.14.3"
+    distributionType = Wrapper.DistributionType.BIN
 }
