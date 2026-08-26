@@ -10,5 +10,5 @@ scaScanGradle(
     projectVersion:    '1.0',
     projectClassifier: 'APPLICATION',
     defaultBranch:     'main',
-    uploadSca:         true,
+    uploadSca:         false,
 )
