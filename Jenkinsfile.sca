@@ -4,9 +4,6 @@ library(identifier: 'sec-pipeline-lib@main',
             remote: 'https://bitbucket.regnology.net/scm/sec/sec-pipeline-lib.git']))
 scaScanGradle(
     gradleRoot:        '.',
-    productFamily:     '',
-    productName:       '',
-    productVersion:    '',
     projectName:       'gradle-simple-sca-test',
     projectVersion:    '1.0',
     projectClassifier: 'APPLICATION',
